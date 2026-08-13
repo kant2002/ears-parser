@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Ears.Parser.Tests/Ears.Parser.Tests.fsproj" />
+  <Project Path="Ears.Parser/Ears.Parser.fsproj" />
+</Solution>
